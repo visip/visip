@@ -12,3 +12,6 @@ Features:
 - estimation of the task run time - using collected run data
 - scheduling based on the run time estimates
 - efficient workflow debugging
+
+Design document:
+https://docs.google.com/document/d/15tAbEhmbEMxN4mHCE0-3ohy2shYohQ7sIb6Ga5iPazc/edit
